@@ -12,5 +12,6 @@ int main(){
         printf("a");
     }
     printf("test");
+    printf("bye");
     
 }
